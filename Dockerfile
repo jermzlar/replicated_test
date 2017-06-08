@@ -1,4 +1,4 @@
-M gliderlabs/alpine:latest
+FROM gliderlabs/alpine:latest
 
 RUN \
   apk update && \
